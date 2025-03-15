@@ -1,9 +1,15 @@
 # StargatePack Mod for Gratuitous Space Battles (NewGatePatch)
 
 <div align="center">
-  <img src="backdrops/anci.jpg" width="250" />
+  <a href="https://youtu.be/Av5ip-9vWcU">
+    <img src="backdrops/anci.jpg" width="250" alt="Watch the trailer"/>
+  </a>
   <img src="backdrops/taur.jpg" width="250" />
   <img src="backdrops/wrai.jpg" width="250" />
+</div>
+
+<div align="center">
+  <a href="https://youtu.be/Av5ip-9vWcU">Watch the Trailer</a>
 </div>
 
 ## Overview
