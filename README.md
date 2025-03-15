@@ -1,9 +1,9 @@
-# StargatePack Mod for Gratuitous Space Battles
+# StargatePack Mod for Gratuitous Space Battles (NewGatePatch)
 
 <div align="center">
-  <img src="data/bitmaps/backdrops/anci.jpg" width="250" />
-  <img src="data/bitmaps/backdrops/taur.jpg" width="250" />
-  <img src="data/bitmaps/backdrops/wrai.jpg" width="250" />
+  <img src="backdrops/anci.jpg" width="250" />
+  <img src="backdrops/taur.jpg" width="250" />
+  <img src="backdrops/wrai.jpg" width="250" />
 </div>
 
 ## Overview
@@ -105,7 +105,7 @@ Advanced allies of Earth.
 - Compatible with version 1.62 or higher
 
 ## Credits
-- Created by: DrDread
+- Created by: hazalcore
 - Based on content from:
   - Stargate SG-1
   - Stargate Atlantis
