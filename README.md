@@ -9,8 +9,16 @@
 </div>
 
 <div align="center">
+  <!-- YouTube Embed (Note: Only works on platforms that support iframes) -->
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Av5ip-9vWcU?si=l2k7DSqd67Rw0eRM" 
+    title="YouTube video player" frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+  </iframe>
+  
+  <!-- Fallback for platforms that don't support iframes (like GitHub) -->
   <a href="https://youtu.be/Av5ip-9vWcU">
-    <img src="https://img.youtube.com/vi/Av5ip-9vWcU/maxresdefault.jpg" width="600" alt="Watch the Trailer"/>
+    <img src="https://img.youtube.com/vi/Av5ip-9vWcU/maxresdefault.jpg" width="560" alt="Watch the Trailer"/>
   </a>
 </div>
 
