@@ -1,0 +1,188 @@
+{
+  "ancients": {
+    "ships": [
+      "Ancients Atlantis",
+      "Ancients Aurora",
+      "Ancients Aurora2",
+      "Ancients Destiny",
+      "Ancients Destroyer",
+      "Ancients HiperAurora",
+      "Ancients Jumper",
+      "Ancients NewAurora",
+      "Ancients Orion",
+      "Ancients Shuttle",
+      "Ancients Unnamed Beamship"
+    ],
+    "modules": [
+      "Ancients Ancients Armor",
+      "Ancients Ancients Atlantis Shied",
+      "Ancients Ancients Destiny Beam",
+      "Ancients Ancients Destiny Mini Beam",
+      "Ancients Ancients Drone Weapon",
+      "Ancients Ancients Endpoint Drone",
+      "Ancients Ancients Faster Shield",
+      "Ancients Ancients Frigate Beam",
+      "Ancients Ancients Frigate Brich",
+      "Ancients Ancients Frigate Self",
+      "Ancients Ancients Frigate Shield",
+      "Ancients Ancients Half Light Engine",
+      "Ancients Ancients Hard Crew",
+      "Ancients Ancients Hard Shield",
+      "Ancients Ancients Hiper Shield",
+      "Ancients Ancients Jumper Drone",
+      "Ancients Ancients Light Engine",
+      "Ancients Ancients Medium Destiny Beam",
+      "Ancients Ancients Nanits",
+      "Ancients Ancients Rate Shield",
+      "Ancients Ancients Replicator",
+      "Ancients Ancients Shield",
+      "Ancients Ancients Small Laser",
+      "Ancients Ancientsi Drone Launcher",
+      "Ancients Ancientsi Falcon Drone",
+      "Ancients Ancientsi Hiper Drone",
+      "Ancients Ancientsi Hive Drone",
+      "Ancients Asgard Powered Armor",
+      "Ancients Destiny Shield Module",
+      "Ancients Drone",
+      "Ancients Dronemini",
+      "Ancients DroneMK2",
+      "Ancients DroneMK3 Hack",
+      "Ancients Main Gun",
+      "Ancients Main Guna",
+      "Ancients Mini Zero Point",
+      "Ancients MultiDrone",
+      "Ancients Unnamed Beam Weapon",
+      "Ancients ZPM MK1",
+      "Ancients ZPM MK2",
+      "Ancients ZPM MK3",
+      "Ancients ZPM MK4"
+    ]
+  },
+  "asgard": {
+    "ships": [],
+    "modules": [
+      "Asgard Asgard Energy Beam",
+      "Asgard Asgard Ion Generator",
+      "Asgard Asgard Plasma Beam",
+      "Asgard Asgard Powered Armor",
+      "Asgard Asgard Shield"
+    ]
+  },
+  "battlestar": {
+    "ships": [
+      "Battlestar Basestar",
+      "Battlestar Galactica",
+      "Battlestar Pegasus",
+      "Battlestar Valkyrie",
+      "Battlestar ViperMk2"
+    ],
+    "modules": [
+      "Battlestar Battlestar Armor",
+      "Battlestar Battlestar Crew",
+      "Battlestar Battlestar FTL Engine",
+      "Battlestar Battlestar Mec-Hiper",
+      "Battlestar Battlestar Mec-Talon-Cylon",
+      "Battlestar Battlestar Mec-Talon-M",
+      "Battlestar Battlestar Mec-Talon",
+      "Battlestar Battlestar Power",
+      "Battlestar Battlestar Replicator"
+    ]
+  },
+  "goauld": {
+    "ships": [
+      "Goauld anubis",
+      "Goauld apophis",
+      "Goauld starbase"
+    ],
+    "modules": [
+      "Goauld Goauld Anubis Shield",
+      "Goauld Goauld Energy Beam",
+      "Goauld Goauld Ion Generator",
+      "Goauld Goauld New Shield",
+      "Goauld Goauld Trinium Armor",
+      "Goauld ZPM MK2"
+    ]
+  },
+  "ori": {
+    "ships": [
+      "Ori mothership"
+    ],
+    "modules": [
+      "Ori Ori Energy Beam",
+      "Ori Ori Naquadah Generator",
+      "Ori Ori Plasma Beam",
+      "Ori Ori Powered Armor",
+      "Ori Ori Shield",
+      "Ori ZPM MK2"
+    ]
+  },
+  "tau'ri": {
+    "ships": [
+      "Tau'Ri Asgard beliskner",
+      "Tau'Ri Asgard oneill",
+      "Tau'Ri Achilles",
+      "Tau'Ri Ares",
+      "Tau'Ri Deadalus",
+      "Tau'Ri Excalibur",
+      "Tau'Ri F-302",
+      "Tau'Ri F-322",
+      "Tau'Ri Hracles",
+      "Tau'Ri Phoenix",
+      "Tau'Ri Sun Tzu",
+      "Tau'Ri Tempest"
+    ],
+    "modules": [
+      "Tau'Ri Asgard Ion Generator",
+      "Tau'Ri Asgard Plasma Beam",
+      "Tau'Ri Asgard Powered Armor",
+      "Tau'Ri Asgard Pulse Beam (2)",
+      "Tau'Ri Asgard Pulse Beam",
+      "Tau'Ri Asgard Shield Fast",
+      "Tau'Ri Asgard Shield Hard",
+      "Tau'Ri Asgard Shield",
+      "Tau'Ri Naquadah Generator mk2",
+      "Tau'Ri Naquadah Generator",
+      "Tau'Ri Tau'ri Controller",
+      "Tau'Ri Tau'ri Crew Master",
+      "Tau'Ri Tau'ri Cruiser Railgun",
+      "Tau'Ri Tau'ri Drone Launcher",
+      "Tau'Ri Tau'ri Fighter Engine",
+      "Tau'Ri Tau'ri Fighter Fuze",
+      "Tau'Ri Tau'ri Frigate Railgun",
+      "Tau'Ri Tau'ri Heavy Rail Cannon Gaus",
+      "Tau'Ri Tau'ri Heavy Rail Cannon Mk2",
+      "Tau'Ri Tau'ri Heavy Rail Cannon",
+      "Tau'Ri Tau'ri Ion Engine",
+      "Tau'Ri Tau'ri Missle Launcher",
+      "Tau'Ri Tau'ri Missle",
+      "Tau'Ri Tau'ri Nuke Launcher",
+      "Tau'Ri Tau'ri Replication Unit",
+      "Tau'Ri Tau'ri Replication Unit_2",
+      "Tau'Ri ZPM MK1",
+      "Tau'Ri ZPM MK2"
+    ]
+  },
+  "wraith": {
+    "ships": [
+      "Wraith Cruiser",
+      "Wraith Cruiser2",
+      "Wraith Dart",
+      "Wraith Galactica",
+      "Wraith Hiveship",
+      "Wraith Hiveship2",
+      "Wraith Superhive"
+    ],
+    "modules": [
+      "Wraith Wraith Armor Unit",
+      "Wraith Wraith Energy Beam",
+      "Wraith Wraith Energy Generator",
+      "Wraith Wraith Hiper Energy Beam",
+      "Wraith Wraith Hive Crew",
+      "Wraith Wraith Organic Armor",
+      "Wraith Wraith Organic Unit",
+      "Wraith Wraith Super Hive Beam",
+      "Wraith Wraith Test Hiper Energy Beam",
+      "Wraith Zero Point Module"
+    ]
+  }
+}
