@@ -9,7 +9,9 @@
 </div>
 
 <div align="center">
-  <a href="https://youtu.be/Av5ip-9vWcU">Watch the Trailer</a>
+  <a href="https://youtu.be/Av5ip-9vWcU">
+    <img src="https://img.youtube.com/vi/Av5ip-9vWcU/maxresdefault.jpg" width="600" alt="Watch the Trailer"/>
+  </a>
 </div>
 
 ## Overview
